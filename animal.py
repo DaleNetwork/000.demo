@@ -1,3 +1,5 @@
+# change user name/email to noreply address
+
 import sys
 
 def default():
